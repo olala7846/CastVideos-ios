@@ -14,7 +14,7 @@
 
 #import <Foundation/Foundation.h>
 
-#define MEDIA_URL_BASE @"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/"
+#define MEDIA_URL_BASE @"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/"
 #define MEDIA_URL_FILE @"d.json"
 
 /**
